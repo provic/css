@@ -16,7 +16,7 @@ input {
 }
 
 input.grow {
-	-webkit-animation: grow 0.8s cubic-bezier(0.175, 0.885, 0.320, 1.275);
+	-webkit-animation: grow 0.8s cubic-bezier(0.175, 0.885,320, 1.275);
 	   -moz-animation: grow 0.8s cubic-bezier(0.175, 0.885, 0.320, 1.275);
 	        animation: grow 0.8s cubic-bezier(0.175, 0.885, 0.320, 1.275);
 }
